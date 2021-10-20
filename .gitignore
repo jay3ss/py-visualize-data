@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore VS Code settings
+.vscode/
+
+# Don't save data
+*.csv
